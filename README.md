@@ -1,2 +1,2 @@
 # cursive-script-recognition
-초서 인식 모델
+Create chinese character recognition model
